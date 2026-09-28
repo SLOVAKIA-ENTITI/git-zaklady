@@ -1,3 +1,3 @@
 # Moj prvy repozitar
 
-Ahoj svet!
+Ahoj svet!git statu
