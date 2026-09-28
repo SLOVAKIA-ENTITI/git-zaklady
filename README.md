@@ -1,6 +1,6 @@
 # Moj prvy repozitar
 
-Ahoj svet!git statu
+Ahoj svet!
 
 ## O mne
-Ja som Jana.
+Ja som Matúš.
