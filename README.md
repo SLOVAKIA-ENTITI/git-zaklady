@@ -3,4 +3,4 @@
 Ahoj svet!
 
 ## O mne
-Ja som Matúš.
+Ja som Matúš.Pozdravuje Tomas.
