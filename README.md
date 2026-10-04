@@ -1,6 +1,6 @@
 # Moj prvy repozitar
 
-Ahoj svet, kamarat!
+Ahoj svet, Jana!
 
 
 ## O mne
